@@ -1,0 +1,17 @@
+$purple:#5e2ced;
+
+.content--box{
+  padding: 60px;
+  &__title{
+    color: $purple;
+    visibility: visible;
+    animation-delay: 0.2s;
+  }
+  &__paragraph{
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    color: #575a7b;
+    font-weight: 400;
+    line-height: 1.7;
+  }
+}

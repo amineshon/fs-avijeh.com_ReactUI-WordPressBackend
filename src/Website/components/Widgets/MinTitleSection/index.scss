@@ -1,0 +1,31 @@
+$popularPurple : #000000;
+$minTitle : #950316;
+$paragraph : #000000;
+
+$line-gradient:linear-gradient(45deg,#95031687,#950316 70.71%);
+
+.min-title-section-box{
+  text-align: center;
+  &__min-title{
+      color: $popularPurple;
+  };
+  &__title{
+    color: $minTitle;
+    padding-bottom: 10px
+  };
+  &__title:after{
+    content: "";
+    display: block;
+    height: 2px;
+    background: $line-gradient;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+
+  };
+}

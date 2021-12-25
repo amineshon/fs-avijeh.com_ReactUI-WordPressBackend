@@ -1,0 +1,107 @@
+$white : #ffffff;
+$light-gray : #edf5ff; //backgroundSectionPublic
+$grayDe :#dedede;
+$paragraph: #575a7b;
+$purple:#5e2ced;
+$line-gradient:linear-gradient(-45deg, #5e2ced, #a485fd);
+
+
+
+.header-box{
+  position: absolute;
+  width: 100%;
+  display: block;
+  z-index: 999;
+  &__CRM{
+    &__phone{
+      color: #fff;
+      cursor: pointer;
+      outline: none;
+      display: flex;
+      margin: 10px 0 0 0;
+      align-items: center;
+    }
+    &__phone:hover{
+      color: #fff;
+      cursor: pointer;
+      
+    }
+    &__logo{
+      width: 30px;
+    color: #ffffff;
+    margin: 0 10px 0 0;
+    }
+    
+  }
+}
+
+.header{
+  display: flex;
+  &__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: $white;
+    border-radius: 25px;
+    padding: 20px;
+    border: 1px solid #950316;
+    box-shadow: 0 8px 20px 0 rgba(224, 224, 224, 0.5);
+
+  }
+
+
+  &__logo{
+    width: 100px;
+  }
+  &__menu{
+    display: flex;
+    flex-direction: row;
+  }
+  a{
+    color:#000000;
+  }
+  &__burger-menu{
+    display: none;
+  }
+  &__dis-des{
+    display: block;
+  }
+}
+@media (max-width: 768px) { 
+  .CRM{
+    position: fixed;
+      margin: 100px 0 40px 0;
+  }
+
+  .header-box{
+    &__CRM{
+      &__phone{
+        color: #950316 ;
+      }
+    }
+    
+      
+  }
+  .header{
+    position: fixed;
+    margin: 0 8px;
+    width: 95%;
+    &__menu{
+      display: flex;
+    flex-direction: column-reverse;
+    text-align: end;
+    }
+    &__burger-menu{
+      display: block;
+      text-align: right;
+      &__img{
+          width: 25%;        
+      }
+    }
+    &__dis-des{
+      display: none;
+    }
+    
+  }
+
+ }
