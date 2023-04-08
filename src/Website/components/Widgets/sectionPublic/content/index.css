@@ -1,0 +1,15 @@
+.content--box {
+  padding: 60px;
+}
+.content--box__title {
+  color: #5e2ced;
+  visibility: visible;
+  animation-delay: 0.2s;
+}
+.content--box__paragraph {
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  color: #575a7b;
+  font-weight: 400;
+  line-height: 1.7;
+}

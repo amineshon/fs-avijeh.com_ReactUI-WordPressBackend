@@ -1,0 +1,22 @@
+.btn-public {
+  text-align: center;
+  border: none;
+  position: relative;
+  background: linear-gradient(-45deg, #5e2ced, #a485fd);
+  cursor: pointer;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 1px;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 14px 28px;
+  border-radius: 30px;
+  display: inline-block;
+  outline: none !important;
+}
+.btn-public:hover {
+  transition: all linear 400ms;
+  transform: perspective(1px) translateZ(0);
+  background: linear-gradient(#a485fd, #5e2ced);
+  box-shadow: 0 8px 20px 0 rgba(224, 224, 224, 0.5);
+}

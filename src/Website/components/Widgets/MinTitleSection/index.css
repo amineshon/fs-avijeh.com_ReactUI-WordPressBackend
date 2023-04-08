@@ -1,0 +1,24 @@
+.min-title-section-box {
+  text-align: center;
+}
+.min-title-section-box__min-title {
+  color: #000;
+}
+.min-title-section-box__title {
+  color: #950316;
+  padding-bottom: 10px;
+}
+.min-title-section-box__title:after {
+  content: "";
+  display: block;
+  height: 2px;
+  background: linear-gradient(45deg, #950316 87, #950316 70.71%);
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100px;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+}

@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Yekan';
+  src: local('Yekan'), url(../../../assets/font/IRANSansWeb.ttf) format('truetype');
+}
+body {
+  font-family: Yekan, serif;
+}
+.bg-wall {
+  position: absolute;
+  width: 100%;
+  height: 40rem;
+}
+.box-linePic {
+  z-index: 998;
+}
+.box-linePic__linePic {
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .bg-wall {
+    height: 49rem;
+ }
+}
