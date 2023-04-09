@@ -52,7 +52,7 @@
   height: 600px;
   border-radius: 100px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
-  background: linear-gradient(45deg, #95031687, #950316 70.71%);
+  background:linear-gradient(45deg,rgba(149,3,22,.529412),#950316 70.71%);
 }
 .content-box .home-baner__product {
   position: absolute;

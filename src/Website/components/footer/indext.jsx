@@ -18,8 +18,7 @@ class Footer extends React.Component {
             <div className="col-sm-12 col-md-4 footer__adress">
               <p className="footer__adress__subtitle"> آدرس :</p>
               <p>
-                تهران -میدان رسالت -خیابان شهید مدنی-پایین تر از تقاطع گلبرگ
-                شهید مدنی-پلاک 1319-واحد 15
+              تهران - خیابان فرجام -تقاطع حیدرخانی پلاک 706 واحد 1
               </p>
               <p className="footer__adress__subtitle">تلفن تماس: </p>
               <p>021-77035933</p>

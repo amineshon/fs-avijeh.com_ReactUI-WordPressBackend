@@ -15,7 +15,7 @@ class SectionPublic extends React.Component {
       {
         id: 0,
         title: "میلگرد بستر ",
-        icon: faCoffee,
+        icon: "https://fs-avijeh.com/wp-content/uploads/2021/12/milgerdBastarIcon.png",
         link:
           "https://fs-avijeh.com/portfolio/%d9%85%db%8c%d9%84%da%af%d8%b1%d8%af-%d8%a8%d8%b3%d8%aa%d8%b1/",
         discription:
@@ -27,7 +27,7 @@ class SectionPublic extends React.Component {
         id: 1,
         title: "گیره",
         link: "https://fs-avijeh.com/portfolio/%da%af%db%8c%d8%b1%d9%87",
-        icon: faCoffee,
+        icon: "https://fs-avijeh.com/wp-content/uploads/2021/12/gire-1.png",
         discription:
           "گیره قطعـه ای اسـت کـه بـه سـتون متصـل شـده از ورق فولادی با ضخامت 3 میلیمتر تهیه میگردد برای بالا بردن استحکام ، بر روی این قطعه فرورفتگی هایی ایجاد  می شود.",
         image: "https://fs-avijeh.com/wp-content/uploads/2020/11/gire.png",
@@ -36,7 +36,7 @@ class SectionPublic extends React.Component {
         id: 2,
         title: "قلاب",
         link: "https://fs-avijeh.com/portfolio/%d9%82%d9%84%d8%a7%d8%a8/",
-        icon: faCoffee,
+        icon: "https://fs-avijeh.com/wp-content/uploads/2021/12/qolab.png",
         discription:
           "ایــن قطعــه بــه منظــور درگیــری دیــوار  و ســتون طراحــی شــده وبــا توجــه بــه شــکل آن، بــه آســانی مــی توانــد روی میلگــرد بســتر قرار گرفته و همپوشــانی و درگیــری لازم بــا مــلات را میسر سازد .این قطعه از مفتول فولادی با سختی نسبتا بالا به قطر 4 میلیمتر ساخته شده است. نیــز جهــت جلوگیــری از خوردگــی گالوانیــزه شــده اســت",
         image: "https://fs-avijeh.com/wp-content/uploads/2020/11/Qolab.jpg",
@@ -46,7 +46,7 @@ class SectionPublic extends React.Component {
         title: "میلگرد بستر تسمه ای",
         link:
           "https://fs-avijeh.com/portfolio/%d9%85%db%8c%d9%84%da%af%d8%b1%d8%af-%d8%a8%d8%b3%d8%aa%d8%b1-%d8%aa%d8%b3%d9%85%d9%87-%d8%a7%db%8c/",
-        icon: faCoffee,
+        icon: "https://fs-avijeh.com/wp-content/uploads/2021/12/MilgerdBastarTasmeei-1.png",
         discription:
           "این قطعه به صورت استاندارد با عرض 7 سانتی متر و طول 3 متر تولید می شود و ضخامت آن نیز 2.5 میلیمتر می باشدکه  بــا مصالــح مــدرن بتــن سـبک هوادار (بلوک های AAC،CLC و...)  قابـل اسـتفاده می باشـد ،بــا ایــن تفــاوت کــه در میلگــرد بســتر مفتولــی ضخامت 4 میلیمتر در حالی که ضخامت  در این محصول۲.5 میلیمتر می باشد.تمامــی مراحــل ســاخت محصــول میلگرد بستر تسمه ای مطابــق با اســتاندارد های داخلی و بین المللی اســت.",
         image:
@@ -57,7 +57,7 @@ class SectionPublic extends React.Component {
         link:
           "https://fs-avijeh.com/portfolio/%d9%82%d8%b7%d8%b9%d9%87-%d9%86%d8%a8%d8%b4%db%8c-%d9%85%d9%86%d9%82%d8%b7%d8%b9-%d9%88%d8%a7%d9%84-%d9%be%d8%b3%d8%aa/",
         title: "قطعه نبشی منقطع",
-        icon: faCoffee,
+        icon: "https://fs-avijeh.com/wp-content/uploads/2020/11/glass-block-reinforcing-1.png",
         discription:
           "قطعــه نبشی منقطع بــه صــورت مهندســی طراحــی و توســط نــرم افــزارهــای تخصصــی تحلیــل شــده و مکانیــزم آن بــه گونــه ای مــیباشــد کــه نیروهــای وارد شــده هنــگام زلزلــه را بــه طــور کامــل تحمـل و سـپس بـه حالـت اولیـه بـاز مـی گـردد. ایـن در حالتـی اســت کــه حتــی ناودانــی هایــی بــا ضخامــت 3 میلیمتــر نیــزچنیــن قابلیتــی را ندارنــد.  قطعه نبشی منقطع بصورت گالوانیزه تولید می شود.",
         image:
@@ -68,7 +68,7 @@ class SectionPublic extends React.Component {
         link:
           "https://fs-avijeh.com/portfolio/%d9%82%d8%b7%d8%b9%d9%87-%d9%86%da%af%d9%87%d8%af%d8%a7%d8%b1%d9%86%d8%af%d9%87-%d9%86%d9%85%d8%a7-%d9%86%da%af%d9%87%d8%af%d8%a7%d8%b1%d9%86%d8%af%d9%87-%d8%a2%d8%ac%d8%b1%d9%86%d9%85%d8%a7/",
         title: "قطعات  نگهدارنده نما",
-        icon: faCoffee,
+        icon: "https://fs-avijeh.com/wp-content/uploads/2021/12/negahdarandeNama-1.png",
         discription:
           "این قطعات مطابق با ضابطه 714 و پیوست 6 استاندارد 2800 طراحی و ساخته شده است و برای نگهداری و اتصال  نمای ساختمان به سایر اجزای  ساختمان طراحی و تولید شده است.قطعه نگهدارنده نما از مفتول با سختی نسبتا بالا ساخته شده و جهت جلوگیری از خوردگی بصورت سرد گالوانیزه می گردد.",
         image:
@@ -79,7 +79,7 @@ class SectionPublic extends React.Component {
         link:
           "https://fs-avijeh.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/",
         title: "بست رادیکالی",
-        icon: faCoffee,
+        icon: "https://fs-avijeh.com/wp-content/uploads/2021/12/bastRadikali-1.png",
         discription:
           "این قطعه جهت نگهداری دیوارهای ساخته شده با انواع بلوک  AAC در قاب استفاده میگردد.حالت ارتجاعی بست رادیکالی سبب کاهش انتقال نیرو از دیوار به سازه می شود.",
         image: "https://fs-avijeh.com/wp-content/uploads/2020/11/bast.jpg",
@@ -125,7 +125,7 @@ class SectionPublic extends React.Component {
                       onClick={() => this.milgerdebastaryek(item.id)}
                     >
                       <div className="box-product__product_icon">
-                        <FontAwesomeIcon icon={item.icon} />
+                        <img className="img-product" src={item.icon} alt="" />
                       </div>
                       {item.title}
                     </div>
