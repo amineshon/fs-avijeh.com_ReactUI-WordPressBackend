@@ -13,7 +13,7 @@ defined( 'ABSPATH' ) OR die( 'This script cannot be accessed directly.' );
     <link rel="apple-touch-icon" href="/logo192.png"/>
     <link rel="manifest" href="/manifest.json"/>
     <title>شرکت فراسازان آوِیژه - تولید کننده میلگرد بستر</title>
-    <link href="https://fs-avijeh.com/wp-content/themes/Impreza/react-homepage/build/static/css/main.53640473.css" rel="stylesheet">
+    <link href="https://fs-avijeh.com/wp-content/themes/Impreza/react-homepage/build/static/css/main.6ace0f2e.css" rel="stylesheet">
 </head>
 <body>
 <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -76,6 +76,6 @@ defined( 'ABSPATH' ) OR die( 'This script cannot be accessed directly.' );
     var i = a;
     t()
 }([])</script>
-<script src="https://fs-avijeh.com/wp-content/themes/Impreza/react-homepage/build/static/js/main.7e67d1bd.js"></script>
+<script src="https://fs-avijeh.com/wp-content/themes/Impreza/react-homepage/build/static/js/main.3bfc5e80.js"></script>
 </body>
 </html>
