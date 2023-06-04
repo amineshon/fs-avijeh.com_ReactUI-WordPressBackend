@@ -74,16 +74,19 @@ class Footer extends React.Component {
             <div className="row">
             <div className="row">
                         <div class="col-12">
+                        
                             <p class="footer__copy-right mb-0">
                                 <span>کلیه حقوق این سایت متعلق به شرکت فرآسازان آویژه می‌باشد</span>
                                 <span>(fs-avijeh)</span><span> می باشد</span>
                             </p>
                             <p class="footer__copy-version mb-0">
                                 <span>V</span>
-                                <span>1.0.0</span>
+                                <span>1.5.0</span>
                                 <span>©</span>
                                 <span>2020</span>
-                                <span>fs-avijeh.com/</span>
+                                <span> development by 
+                                  <a href="http://targetdevelopers.com"> TargetDevelopers.com</a>
+                                </span>
                                 </p>
                         </div>
                       </div>
