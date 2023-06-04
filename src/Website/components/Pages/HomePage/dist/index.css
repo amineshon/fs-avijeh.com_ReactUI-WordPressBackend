@@ -9,7 +9,7 @@ body {
 .bg-wall {
   position: absolute;
   width: 100%;
-  height: 40rem;
+  height: 45rem;
 }
 
 .box-linePic {
@@ -21,6 +21,6 @@ body {
 
 @media (max-width: 768px) {
   .bg-wall {
-    height: 49rem;
+    height: 57rem;
   }
 }
