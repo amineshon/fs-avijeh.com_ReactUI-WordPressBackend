@@ -74,10 +74,21 @@
     text-align: right;
  }
   .header__burger-menu__img {
-    width: 25%;
+    width: 10%;
  }
   .header__dis-des {
     display: none;
  }
+ .header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 25px;
+  padding: 5px 20px;
+  border: 1px solid #950316;
+  box-shadow: 0 8px 20px 0 rgba(224, 224, 224, 0.5);
+  width: fit-content;
+}
 }
 
