@@ -46,11 +46,11 @@ class SectionPublic extends React.Component {
         link:
           "https://fs-avijeh.com/portfolio/%d9%82%d8%b7%d8%b9%d9%87-%d9%86%d8%a8%d8%b4%db%8c-%d9%85%d9%86%d9%82%d8%b7%d8%b9-%d9%88%d8%a7%d9%84-%d9%be%d8%b3%d8%aa/",
         title: "قطعه نبشی منقطع",
-        icon: "https://fs-avijeh.com/wp-content/uploads/2023/06/navdoniMonghateh.png",
+        icon: "https://fs-avijeh.com/wp-content/uploads/2023/06/nabshiMonghateh.png",
         discription:
           "قطعــه نبشی منقطع بــه صــورت مهندســی طراحــی و توســط نــرم افــزارهــای تخصصــی تحلیــل شــده و مکانیــزم آن بــه گونــه ای مــیباشــد کــه نیروهــای وارد شــده هنــگام زلزلــه را بــه طــور کامــل تحمـل و سـپس بـه حالـت اولیـه بـاز مـی گـردد. ایـن در حالتـی اســت کــه حتــی ناودانــی هایــی بــا ضخامــت 3 میلیمتــر نیــزچنیــن قابلیتــی را ندارنــد.  قطعه نبشی منقطع بصورت گالوانیزه تولید می شود.",
         image:
-          "https://fs-avijeh.com/wp-content/uploads/2023/06/navdoniMonghateh.png",
+          "https://fs-avijeh.com/wp-content/uploads/2023/06/nabshiMonghateh.png",
       },
       
       {
