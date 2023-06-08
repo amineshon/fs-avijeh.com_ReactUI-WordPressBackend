@@ -21,9 +21,9 @@ class Header extends React.Component {
           <div className="row">
             <div className="col-12">
               <div class="header-box__crm CRM">
-                <a className="header-box__CRM__phone" href="tel:+982191020345">
+                <a className="header-box__CRM__phone" href="tel:+982177035933">
                 <img className="header-box__CRM__logo" src={Costomer} alt=""/>
-                  <span>021-91020345</span>
+                  <span>021-77035933</span>
                 </a>
               </div>
             </div>
