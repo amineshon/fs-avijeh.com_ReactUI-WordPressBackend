@@ -5,7 +5,7 @@ import "./index.css";
 class MinTitleSection extends React.Component {
   state = {
     minTitle: "درباره ",
-    title: "فراسازان آویژه",
+    title: "میلگرد بستر آویژه",
   };
 
   render() {

@@ -155,7 +155,7 @@ class SectionPublic extends React.Component {
         <div className="col-lg-6 col-md-6">
           <div className="row">
             <div className="col-12">
-              <h1 className="box-product--title">فراسازان آویژه</h1>
+              <h1 className="box-product--title">میلگرد بستر آویژه</h1>
             </div>
             <div className="col-12">
               <div className="row">
